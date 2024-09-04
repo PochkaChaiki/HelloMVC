@@ -28,3 +28,4 @@
 /home/pochka/projects/mvc/MvcMovie/obj/Debug/net8.0/MvcMovie.pdb
 /home/pochka/projects/mvc/MvcMovie/obj/Debug/net8.0/MvcMovie.genruntimeconfig.cache
 /home/pochka/projects/mvc/MvcMovie/obj/Debug/net8.0/ref/MvcMovie.dll
+/home/pochka/projects/mvc/MvcMovie/obj/Debug/net8.0/MvcMovie.sourcelink.json
